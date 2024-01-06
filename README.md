@@ -1,3 +1,3 @@
 # new-project
 Team Project
-## i will use CDL CMD
+## i will use CLI CMD
